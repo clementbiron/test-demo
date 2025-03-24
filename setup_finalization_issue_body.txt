@@ -1,0 +1,8 @@
+Hi @clementbiron! 👋
+  
+To finalize the setup of your repository, follow these steps:
+
+- Update collection metadata in [`metadata.yml`](https://github.com/clementbiron/test-demo/blob/main/metadata.yml), following the [documentation](https://docs.opentermsarchive.org/collections/reference/metadata/)
+- Enable the AllContributors bot by following [this link](https://github.com/apps/allcontributors/installations/new)
+- Update deployment files in [`deployment`](https://github.com/clementbiron/test-demo/blob/main/deployment/), following the [documentation](https://docs.opentermsarchive.org/deployment/how-to/deploy/)
+- Create a `declarations` directory and start adding terms declarations following the [documentation](https://docs.opentermsarchive.org/terms/tutorials/track/#step-2-create-the-service-declaration)
